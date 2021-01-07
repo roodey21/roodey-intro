@@ -1,0 +1,29 @@
+- profile:
+  initials: RUDI
+  name: Fahrudin Yusuf Abadi
+  email: roodey.good@roodeybadd.my.id
+  profession: Web Developer
+  image: images/mz.jpg
+  location: Tobacco City, USA
+  relocation: false
+  company: Leave Me Alone
+  for_hire: true
+  focus: Backend Developer
+  focus_url: https://gatsbyjs.org
+  about: |
+    I'm hard-working web developer with an ambition for creating elegant solutions in the least amount of time. Developed an ecommerce webapp for guitar shop, ebook management system, simple android web-based application, and another personal project. Passionate in frontend web development especially UI/UX, but still focused on learning backend web development.
+
+  skills:
+    - PHP
+    - CSS
+    - JavaScript Native
+  tools:
+    - Laravel
+    - VSCode
+    - Tailwind CSS
+    - Bootstrap
+  budget:
+    currency: IDR
+    min: 50
+    max: 3000
+    default: 500
